@@ -43,7 +43,7 @@ Check out our [CLI's page](https://www.bitrise.io/cli) for a nice intro about wh
 
 ### `bitrise`
 
-[The runner itself](https://github.com/bitrise-io/bitrise), you can install it to your machine with Homebrew:
+[The runner itself](https://github.com/bitrise-io/bitrise), you can install it to your machine with Homebrew: 
 
 `brew update && brew install bitrise`
 
